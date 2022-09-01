@@ -1,0 +1,107 @@
+body{
+    background-color: #26cbff;
+}
+
+#section1{
+    text-align: center;
+    background-color: #26cbff;
+    height: 250px;
+    width:auto;
+}
+
+#title{
+    color: white;
+    font-family: Megrim;
+    font-size: 100px;
+    position: relative;
+    bottom: 80px;
+}
+
+#cc1{   
+    position: relative;
+    bottom: 343px;
+    right: 600px;
+}
+
+#cc2{
+    position: relative;
+    bottom: 523px;
+    left: 600px;
+    transform: scaleX(-1);
+}
+
+#section2{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 150px;
+}
+
+.wearables_c{
+    font-family: Indie Flower;
+    margin: 30px;
+    text-align: center;
+}
+
+#description{
+    width: 400px;
+}
+
+#items{
+    margin: 40px;
+    font-family: Indie Flower;
+    text-align: center;
+}
+
+button{
+    font-family:Indie Flower ;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#main_div1{
+    display: flex;
+}
+
+#price{
+    color:red;
+}
+
+#section3{
+    background-color: #ffff;
+    height: 80px;
+    text-align: center;
+    border-radius: 50px;
+    position: sticky;
+    top: 0px;
+    margin-bottom: 50px    ;
+    border:  black 8px double;
+    z-index:1;
+}
+
+.nav_contents{
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Gloria Hallelujah    ;
+}
+
+
+#cart_items{
+    font-size: 30px;
+    position: relative;
+    bottom: 100px;
+    left: 500px;
+}
+
+#flex{
+    display: flex;
+    position: relative;
+    left: 155px;
+}
+
+.quan{
+    margin-left: 10px;
+}
+

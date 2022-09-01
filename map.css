@@ -1,0 +1,74 @@
+
+body{
+    background-color: #26cbff;
+}
+
+#section1{
+    text-align: center;
+    background-color: #26cbff;
+    height: 250px;
+    width:auto;
+}
+
+#title{
+    color: white;
+    font-family: Megrim;
+    font-size: 100px;
+    position: relative;
+    bottom: 80px;
+}
+
+#cc1{   
+    position: relative;
+    bottom: 343px;
+    right: 600px;
+}
+
+#cc2{
+    position: relative;
+    bottom: 523px;
+    left: 600px;
+    transform: scaleX(-1);
+}
+
+#section2{
+    background-color:#26cbff ;
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
+
+#txt1{
+    color: white;
+    font-family: Indie Flower;
+    font-size: 30px;
+}
+
+
+
+#section3{
+    background-color: #ffff;
+    height: 80px;
+    text-align: center;
+    border-radius: 50px;
+    position: sticky;
+    top: 0px;
+    margin-bottom: 50px    ;
+    border:  black 8px double;
+    z-index:1;
+}
+
+.nav_contents{
+    margin-left: 100px;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: Gloria Hallelujah    ;
+}
+
+
+#all_locations, #highlight_locations{
+    text-align: center;
+    font-family: Indie Flower;
+    font-size: 30px;
+}
+

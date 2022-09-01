@@ -1,0 +1,77 @@
+body{
+    background-color: #26cbff;
+}
+
+#section1{
+    text-align: center;
+    background-color: #26cbff;
+    height: 250px;
+    width:auto;
+}
+
+#title{
+    color: white;
+    font-family: Megrim;
+    font-size: 100px;
+    position: relative;
+    bottom: 80px;
+}
+
+#cc1{   
+    position: relative;
+    bottom: 343px;
+    right: 600px;
+}
+
+#cc2{
+    position: relative;
+    bottom: 523px;
+    left: 600px;
+    transform: scaleX(-1);
+}
+
+
+fieldset{
+    text-align: center;
+    font-family: Indie Flower ;
+    background-color: #ffce00
+    ;
+    width: 500px;
+    position: relative;
+    border: black double 5px;
+    left: 430px;
+}
+
+.contents{
+margin: 10px;
+}
+
+legend{
+    font-size: 20px;
+}
+
+#submit{
+text-align: center;
+font-family: Indie Flower ;
+width: 300px;
+background-color: #ffce00;
+border: black double 5px;
+}
+
+
+#section2_2{
+    text-align: center;
+    font-family: Indie Flower;
+}
+
+#cc3{
+    position: relative;
+    right: 100px;
+}
+
+#cm{
+    position: relative;
+    bottom: 400px;
+    font-size: 50px;
+    left: 100px
+}

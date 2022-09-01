@@ -1,0 +1,45 @@
+body{
+    background-color: #26cbff;
+}
+
+#section1{
+    text-align: center;
+    background-color: #26cbff;
+    height: 250px;
+    width:auto;
+}
+
+#title{
+    color: white;
+    font-family: Megrim;
+    font-size: 100px;
+    position: relative;
+    bottom: 80px;
+}
+
+#cc1{   
+    position: relative;
+    bottom: 343px;
+    right: 600px;
+}
+
+#cc2{
+    position: relative;
+    bottom: 523px;
+    left: 600px;
+    transform: scaleX(-1);
+}
+
+#section2{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    left: 150px;
+}
+
+form{
+    text-align: center;
+    border: black 5px double;
+    font-family: Indie Flower;
+    font-size: larger;
+}
